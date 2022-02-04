@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - I began scripting with some python script in Stellantis, to use scritp tool in ANSA software, and to help me for debugging files.
 - I worked several years on project vehicule, managing supplier activities on tests and simulation target and planning.
 
-- 🔭 I’m currently working on retraining for web developper fullstack JS  (end training end jun 2022)
+- 🔭 I’m currently working on retraining for web developper fullstack JS  (end training --> june 2022)
       https://oclock.io/formations/developpeur-web-fullstack-javascript
 - 🌱 I’m currently learning JS / HTML / CSS / Nodejs
 - 👯 I’m looking to collaborate on web project in a nice team in Paris with remote possibility as fullstack developper JS/Nodejs
