@@ -20,7 +20,7 @@ I want to learn every day, i want to teach my knowlege.
 
 -  I am open for propositions 
       
-- 📫 How to reach me: patrick.letourneux20@gmail.com  or www.linkedin.com/in/patrick-letourneux-4a7092221...
+- 📫 How to reach me: patrick.letourneux20@gmail.com  or www.linkedin.com/in/patrick-letourneux
 
 - ⚡ Fun fact: 1 wife, 2 childs , make Yoga, like reading fantasy and heroic fantasy books.
 
