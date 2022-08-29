@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 - I am Patrick, 44 years old, near Paris.
 
-- 🔭 I’m finished the retraining for web developper fullstack JS  (end training --> june 2022)
+- 🔭 I finished the retraining for web developper fullstack JS
       https://oclock.io/formations/developpeur-web-fullstack-javascript
       
 - I am now learning REACT
