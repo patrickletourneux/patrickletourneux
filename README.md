@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I finished the retraining for web developper fullstack JS
       https://oclock.io/formations/developpeur-web-fullstack-javascript
       
-- I am now learning REACT
+- I am now learning REACT and typescript
       
 - I used to debug a lot of vehicule simulations crash and acoustic in Stellantis during several years , in support team.
 - I began scripting with some python script in Stellantis, to use script tool in ANSA software, and to help me for debugging files.
